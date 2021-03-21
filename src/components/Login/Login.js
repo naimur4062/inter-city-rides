@@ -9,7 +9,7 @@ import fbImg from '../../images/facebook.png'
 import Header from '../Header/Header';
 import { Button } from '@material-ui/core';
 import { Card, Form } from 'react-bootstrap';
-import { Link, useHistory, useLocation } from 'react-router-dom';
+import { useHistory, useLocation } from 'react-router-dom';
 
 const Login = () => {
     const [newUser, setNewUser] = useState(false);

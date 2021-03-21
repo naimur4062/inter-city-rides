@@ -3,12 +3,12 @@ import { PickupContext, VehicleContext } from '../../App';
 import './CitySearch.css';
 import GoogleImg from '../../images/Map.png';
 import VehicleTypeInfo from '../../Fake-data/data.json';
-import { Link } from '@material-ui/core';
 import Header from '../Header/Header';
 
 const CitySearch = () => {
     const [pick, setPick] = useContext(PickupContext);
     const [vehicleType, setVehicleType] = useContext(VehicleContext);
+    console.log("type", vehicleType)
 
     const [vehicleByNames, setVehicleByNames] = useState([]);
     useEffect(() => {
@@ -19,7 +19,7 @@ const CitySearch = () => {
     vehicleByNames.map(vehicleByName => {
         if (vehicleByName.name === vehicleType) {
             vehicle = { ...vehicle, vehicleByName };
-            console.log(vehicle);
+            console.log(vehicle)
         }
     })
 

@@ -22,7 +22,6 @@ const Vehicle = (props) => {
                 </div>
             </Link>
         </nav>
-
     );
 };
 
