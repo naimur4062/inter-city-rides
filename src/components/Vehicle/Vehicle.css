@@ -1,0 +1,10 @@
+.vehicle-card{
+    padding: 20px;
+}
+.vehicle-card img{
+    height: 180px;
+}
+nav a:hover{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "name": "BIKE",
+    "person": 5,
+    "img": "https://images.hindustantimes.com/auto/img/2021/01/13/600x338/Royal_Enfiled_Classic_350_1606287446412_1606287452623_1610507147713.jpg",
+    "cost": 149
+  }, {
+    "id": 2,
+    "name": "BUS",
+    "person": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg/1200px-LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg",
+    "cost": 59
+  }, {
+    "id": 3,
+    "name": "CAR",
+    "person": 5,
+    "img": "https://img.etimg.com/thumb/msid-72081976,width-640,resizemode-4,imgsize-35648/elva-mclarens-latest-sports-car.jpg",
+    "cost": 99
+  }, {
+    "id": 4,
+    "name": "TRAIN",
+    "person": 5,
+    "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/31/784757-782585-aqualine-metro-corridor-012619.jpg",
+    "cost": 199
+  }]

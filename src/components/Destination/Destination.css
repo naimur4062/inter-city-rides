@@ -1,0 +1,19 @@
+.destination{
+    border-bottom: 1px solid lightgray;
+}
+.form{
+    background-color: lightgray;
+    width: 300px;
+    text-align: center;
+}
+.btn-div input{
+    background-color: #ff6e40;
+    color: white;
+}
+.btn-div input:hover{
+    color: white;
+}
+.google-map img{
+    width: 600px;
+    height: 500px;
+}

@@ -1,0 +1,9 @@
+.vehicle{
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.home-body{
+    border: 1px solid #a5e5f7;
+    background-color: #a5e5f7;
+}
