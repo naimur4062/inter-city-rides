@@ -1,7 +1,7 @@
 
-# Welcome my site. This is my 9th-assignment of programming hero's course.
+# Welcome my site.
 
-# This is the information about inter city rides
+# This site is for the information about inter city rides
 
 The features are:
 
